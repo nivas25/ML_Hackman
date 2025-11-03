@@ -1,0 +1,10 @@
+hangman
+machine
+learning
+python
+model
+reinforcement
+hidden
+markov
+random
+words
