@@ -32,6 +32,7 @@ python .\main.py
 ```
 
 ## Notes
+
 - If `hmmlearn` isn’t installed, HMM training will be skipped.
 - Replace `data/corpus.txt` with your own word list for better results.
 - Notebooks include a top cell to set up `sys.path` for imports.
