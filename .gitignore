@@ -20,5 +20,6 @@ venv/
 results/logs/*
 !results/logs/.gitkeep
 
-# Models (keep tracked pkl files here; remove if you prefer to ignore)
-# *.pkl
+# Models - exclude large policy files
+rl/policy.pkl
+rl/*.pkl
